@@ -101,10 +101,6 @@ JS 语法规范进阶：
 - [**《TypeScript 编程》**](https://book.douban.com/subject/35134660/)：TS 语法基础，也拥有一些实用基础，类型进阶、错误处理、JS 互操作等章节的一些实践不错
 - [**《Effective TypeScript》**](https://book.douban.com/subject/35689352/)：TS 使用中的一些实践技巧，建议英文版
 
-```txt
-《编程与类型系统》：笔者认为有上述2本书的情况下TS的学习、实践已经足够了
-```
-
 ### 2.6 Node.js
 
 - [overnote 笔记](https://github.com/overnote/over-javascript/tree/master/04-NodeJS)：Node 发展太快，市面上的入门书籍大多过时，还是直接看本笔记吧 o(╯□╰)o
@@ -133,6 +129,11 @@ jQuery：
 Webpack：
 
 - [**《Webpack+Babel 入门与实例详解》**](https://book.douban.com/subject/35721564/)
+
+Electron：
+
+- [**《Electron 实战：入门、进阶与性能优化》** 刘晓伦](https://book.douban.com/subject/35069275/)
+- [**《深入浅出 Electron：原理、工程与实践》** 刘晓伦](https://book.douban.com/subject/35693818/)
 
 其他：
 
@@ -172,24 +173,13 @@ Webpack：
 《JavaScript 模式》：不推荐，版本太老
 ```
 
-### 2.10 桌面开发
-
-- [**《Electron 实战：入门、进阶与性能优化》** 刘晓伦](https://book.douban.com/subject/35069275/)
-- [**《深入浅出 Electron：原理、工程与实践》** 刘晓伦](https://book.douban.com/subject/35693818/)
-
-其他书籍如：
-
-```txt
-《Electron 跨平台开发实战》：版本较老
-```
-
-### 2.11 Canvas
+### 2.10 Canvas
 
 - [**《HTML5+JavaScript 动画基础》**](https://book.douban.com/subject/24744218/)：目前最好的动画书籍
 - [**《HTML5 Canvas 核心技术》**](https://book.douban.com/subject/24533314/)：目前最好的 canvas 书籍
 - [**《TypeScript 图形渲染实战：2D 架构设计与实现》**](https://book.douban.com/subject/31365348/)：编排较乱，但仍有值得看的地方
 
-### 2.12 待读
+### 2.11 待读
 
 ```txt
 前端工程质量保障体系实践
