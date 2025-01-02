@@ -16,26 +16,48 @@ OverNote 系列笔记是我在平时一些学习时间阅读书籍博客、观�
 
 笔者推荐直接阅读新时期的一些必读著作：
 
-- [**《深入解析 CSS》**](https://book.douban.com/subject/35021471/)：重点书籍，新近较好的 CSS 基础与进阶书籍
-- [**《CSS 揭秘》**](https://book.douban.com/subject/26745943/)：重点书籍，CSS 书籍瑰宝！！！
-- [**《CSS3 艺术 网页设计案例实战》**](https://book.douban.com/subject/34932891/)：CSS 进阶书籍，提供了大量 CSS3 的示例与优化技巧
-- [《CSS 设计指南》](https://book.douban.com/subject/23123255/)：很基础的 CSS 入门书籍，讲解了 CSS 语法与常用案例如导航、下拉菜单等等
-- [《CSS 权威指南（第四版）》](https://book.douban.com/subject/33398314/)：经典书籍，可以作为 CSS 字典查阅
-- [《精通 CSS》第 3 版](https://book.douban.com/subject/30450258/)：内容与《深入解析 CSS》重合
-- [《CSS 实战手册》第四版](https://book.douban.com/subject/26898555/)：内容与《深入解析 CSS》重合
+<p>
+    <a href="https://book.douban.com/subject/35021471/">
+        <img src="./images/books/css-01.jpg" style="max-width: 135px;max-height: 200px;"/>
+    </a>
+    <a href="https://book.douban.com/subject/26745943/">
+        <img src="./images/books/css-02.jpg" style="max-width: 135px;max-height: 200px;" />
+    </a>
+    <a href="https://book.douban.com/subject/34932891/">
+        <img src="./images/books/css-03.jpg"style="max-width: 135px;max-height: 200px;" />
+    </a>
+    <a href="https://book.douban.com/subject/33398314/">
+        <img src="./images/books/css-04.jpg" style="max-width: 135px;max-height: 200px;" />
+    </a>
+</p>
 
-其他优秀书籍：
+- [**《深入解析 CSS》**](https://book.douban.com/subject/35021471/)：重点书籍，新近较好的 CSS 基础与进阶书籍
+- [**《CSS 揭秘》**](https://book.douban.com/subject/26745943/)：经典 CSS 书籍，CSS 书籍瑰宝！！！
+- [**《CSS3 艺术 网页设计案例实战》**](https://book.douban.com/subject/34932891/)：CSS3 书籍，提供了大量 CSS3 的示例与优化技巧
+- [**《CSS 权威指南（第四版）》**](https://book.douban.com/subject/33398314/)：经典书籍，可以作为 CSS 字典查阅
+
+其他可参考阅读的 HTML/CSS 书籍：
 
 ```txt
-零基础入门类书籍：
+张鑫旭的CSS三部曲：
+《CSS 世界》：可阅读，深入 CSS 的一本书，但是作者行文风格较为奇特
+《CSS 新世界》：可阅读，内容较好，但是作者行文风格较为特殊
+```
+
+完全零基础可以阅读下列 HTML/CSS 书籍中的一本：
+
+```txt
 《Head First HTML 与 CSS》第 2 版
 《HTML & CSS 设计与构建网站》
-《HTML5 与 CSS3 基础教程》第 8 版
+《CSS 设计指南》
+```
 
-CSS 提升类书籍：
+有亮点但不需要阅读的 HTML/CSS 书籍：
+
+```
 《CSS 禅意花园》：不推荐，内容偏设计，非程序员读物，且时代较为久远
-《CSS 世界》：可阅读，深入 CSS 的一本书，但是作者行文风格较为奇特
-《CSS 选择器世界》：可阅读，内容较好，但是作者行文风格较为特殊
+《精通 CSS》第 3 版：本书第3版跟上了时代，但是内容上与《深入解析 CSS》重合
+《CSS 实战手册》第四版：内容上与《深入解析 CSS》重合
 ```
 
 ### 2.2 JavaScript 基础篇
