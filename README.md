@@ -16,21 +16,6 @@ OverNote 系列笔记是我在平时一些学习时间阅读书籍博客、观�
 
 笔者推荐直接阅读新时期的一些必读著作：
 
-<p>
-    <a href="https://book.douban.com/subject/35021471/">
-        <img src="./images/books/css-01.jpg" style="max-width: 135px;max-height: 200px;"/>
-    </a>
-    <a href="https://book.douban.com/subject/26745943/">
-        <img src="./images/books/css-02.jpg" style="max-width: 135px;max-height: 200px;" />
-    </a>
-    <a href="https://book.douban.com/subject/34932891/">
-        <img src="./images/books/css-03.jpg"style="max-width: 135px;max-height: 200px;" />
-    </a>
-    <a href="https://book.douban.com/subject/33398314/">
-        <img src="./images/books/css-04.jpg" style="max-width: 135px;max-height: 200px;" />
-    </a>
-</p>
-
 - [**《深入解析 CSS》**](https://book.douban.com/subject/35021471/)：重点书籍，新近较好的 CSS 基础与进阶书籍
 - [**《CSS 揭秘》**](https://book.douban.com/subject/26745943/)：经典 CSS 书籍，CSS 书籍瑰宝！！！
 - [**《CSS3 艺术 网页设计案例实战》**](https://book.douban.com/subject/34932891/)：CSS3 书籍，提供了大量 CSS3 的示例与优化技巧
@@ -69,11 +54,6 @@ JavaScript 语法汇总类：
 - [**《JavaScript 高级程序设计》** 第 4 版](https://book.douban.com/subject/35175321/)：红宝书，最好的 JS 入门、提升书籍之一
 - [**《JavaScript 语言精髓与编程实践》** 第 3 版](https://book.douban.com/subject/35085910/)：国内出品非常优秀的 JS 书籍
 - [**《JavaScript 权威指南》** 第 7 版](https://book.douban.com/subject/35396470/)：犀牛书，JS 的百科全书，与红宝书冲突过多
-- [《JavaScript 编程全解》](https://book.douban.com/subject/25767719/)：内容全面，讲解的很细致优秀，但是内容与红宝书、犀牛书重复较多
-- [《JavaScript 面向对象编程指南》（第 3 版）](https://book.douban.com/subject/35692269/)：名为讲解面向对象，实则补充了 JS 语法、设计模式、DOM 编程等部分，内容与红宝书、犀牛书重复较多
-
-ES6 相关书籍：
-
 - [**《ECMAScript6 入门》** 第 3 版](https://book.douban.com/subject/27127030/)：阮一峰的 ES6 作品，全面深入，也可以看 [网页版](https://es6.ruanyifeng.com/#docs/generator)
 - [**《深入理解 ECMAScript6》**](https://book.douban.com/subject/27072230/)：ES6 书籍，偏基础
 
@@ -82,6 +62,8 @@ ES6 相关书籍：
 ```txt
 《Head First JavaScript 程序设计》：零基础入门书籍
 《JavaScript 编程精解 第 3 版》：佳作《Eloquent JavaScript》中文版，深入浅出，建议看英文版。
+《JavaScript 编程全解》：内容全面，讲解的很细致优秀，但是内容与红宝书、犀牛书重复较多
+《JavaScript 面向对象编程指南》（第 3 版）：名为讲解面向对象，实则补充了 JS 语法、设计模式、DOM 编程等部分，内容与红宝书、犀牛书重复较多
 ```
 
 ### 2.3 Web 编程篇
